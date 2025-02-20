@@ -7,6 +7,7 @@ public class App {
     public App(){
         int number = addition(5, 10);
         System.out.println(number);
+        System.out.println("Hi there!");
     }
 
     public static void main(String[] args) {
